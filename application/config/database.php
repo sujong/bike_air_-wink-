@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'mysql.wink.ws';
 $db['default']['username'] = 'u931442177_sj';
-$db['default']['password'] = '';
+$db['default']['password'] = 'cotnwhd12';
 $db['default']['database'] = 'u931442177_sj';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
